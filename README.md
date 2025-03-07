@@ -17,6 +17,7 @@ Me chamo Guilherme Alves Direnzi, tenho 20 anos e moro em Carapicuíba, São Pau
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Direnzi002&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/ username=Direnzi002&layout=compact&langs_count=16&theme=aura_dark"/>
 </picture>
 <img aling="center" alt="Gui-pycharm" height=120px width=120px src="https://media1.tenor.com/m/ze8jE44PCJYAAAAC/saitama-onepunchman.gif" />
 </div>
