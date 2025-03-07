@@ -5,21 +5,13 @@
 **<p>Bom dia, Boa tarde e Boa noite!!!</p>**
 Me chamo Guilherme Alves Direnzi, tenho 20 anos e moro em Carapicuíba, São Paulo. Sou um estudante autodidata de Análise e Ciência de Dados e sempre gostei de trabalhar e aprender com dados — uma curiosidade estranha sobre mim. Atualmente, curso Análise e Desenvolvimento de Sistemas na FETEC de Carapicuíba e, um dia, desejo me tornar um excelente cientista de dados.
 
-<div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Direnzi002&show_icons=true&theme=aura_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Direnzi002&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/ username=Direnzi002&layout=compact&langs_count=16&theme=aura_dark"/>
-</picture>
-<img aling="center" alt="Gui-pycharm" height=120px width=120px src="https://media1.tenor.com/m/ze8jE44PCJYAAAAC/saitama-onepunchman.gif" />
+<div>
+  <a href="https://beacons.ai/rafaballerini">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+  <img aling="center" alt="Gui-pycharm" height=120px width=120px src="https://media1.tenor.com/m/ze8jE44PCJYAAAAC/saitama-onepunchman.gif"/>
 </div>
 
 <div style = "display": inline_block><br>
