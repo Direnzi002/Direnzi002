@@ -7,9 +7,9 @@ Me chamo Guilherme Alves Direnzi, tenho 20 anos e moro em Carapicuíba, São Pau
 
 
 <div>
-  <a href="https://beacons.ai/rafaballerini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/Direnzi002">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Direnzi002&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Direnzi002&layout=compact&langs_count=16&theme=aura_dark"/>
   </a>
   <img aling="center" alt="Gui-pycharm" height=120px width=120px src="https://media1.tenor.com/m/ze8jE44PCJYAAAAC/saitama-onepunchman.gif"/>
 </div>
