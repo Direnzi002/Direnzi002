@@ -23,7 +23,6 @@ Me chamo Guilherme Alves Direnzi, tenho 20 anos e moro em Carapicuíba, São Pau
 
 <div>
       <a href="https://www.linkedin.com/in/guilhermedirenzi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="https://www.instagram.com/guilhermedirenzi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white target="></a>
       <a href="https://www.android.com/intl/pt_br/" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
       <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
       <a href="https://www.microsoft.com/pt-br/software-download" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
