@@ -1,10 +1,5 @@
-# Guilherme A.D.🪐
-**Área de atuação:** **`Help-Desk`**<br>
-**Estudando:** **`Data Analyst | Data Scientist`**
-
-**<p>Bom dia, Boa tarde e Boa noite!!!</p>**
-Me chamo Guilherme Alves Direnzi, tenho 20 anos e moro em Carapicuíba, São Paulo. Sou um estudante autodidata de Análise e Ciência de Dados e sempre gostei de trabalhar e aprender com dados — uma curiosidade estranha sobre mim. Atualmente, curso Análise e Desenvolvimento de Sistemas na FETEC de Carapicuíba e, um dia, desejo me tornar um excelente cientista de dados.
-
+# 💫 Hi, Guilherme Direnzi Here!
+🔭 I’m currently working on: Help Desk<br>🌱 I’m currently learning: Data Analysis | Data Science<br>🙋‍♂️ Ask me about: Data, technology, and systems analysis<br>🤝 I’m looking to collaborate on: Data projects and learning groups<br>🧑‍💻 I’m looking for help with: Advanced practices in Data Science<br>⚡ Fun fact: I’ve always enjoyed working with and learning about data — it’s my favorite “weird” curiosity
 
 <div>
   <a href="https://github.com/Direnzi002">
