@@ -24,4 +24,7 @@
       <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
       <a href="https://www.microsoft.com/pt-br/microsoft-365/word" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></a>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Direnzi002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 </div>
