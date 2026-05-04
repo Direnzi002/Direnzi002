@@ -1,13 +1,13 @@
 # 💫 Hi, Guilherme Direnzi here!
 🔭 I’m currently working on: Help Desk<br>🌱 I’m currently learning: Data Analysis | Data Science<br>🙋‍♂️ Ask me about: Data, technology, and systems analysis<br>🤝 I’m looking to collaborate on: Data projects and learning groups<br>🧑‍💻 I’m looking for help with: Advanced practices in Data Science<br>⚡ Fun fact: I’ve always enjoyed working with and learning about data — it’s my favorite “weird” curiosity
 
-<!-- <div>
-  <a href="https://github.com/Direnzi002">
+<div>
+  <!-- <a href="https://github.com/Direnzi002">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Direnzi002&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Direnzi002&layout=compact&langs_count=16&theme=aura_dark"/>
-  </a>
+  </a> -->
   <img aling="center" alt="Gui-pycharm" height=120px width=120px src="https://media1.tenor.com/m/ze8jE44PCJYAAAAC/saitama-onepunchman.gif"/>
-</div> -->
+</div>
 
 <div style = "display": inline_block><br>
     <img aling="center" alt="Gui-Python" height=38px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
