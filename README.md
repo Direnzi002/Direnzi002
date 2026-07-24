@@ -1,17 +1,5 @@
-# Data Analyst | Data Science Student at USP
-
-Building end-to-end data projects involving:
-
-• Data Cleaning
-• Exploratory Data Analysis
-• Machine Learning
-• SQL
-• Business Intelligence
-• Statistical Analysis
-
-Current Goal
-
-Become a Data Scientist capable of solving real business problems through data.
+# 💫 Hi, Guilherme Direnzi here!
+🔭 I’m currently working on: Help Desk<br>🌱 I’m currently learning: Data Analysis | Data Science<br>🙋‍♂️ Ask me about: Data, technology, and systems analysis<br>🤝 I’m looking to collaborate on: Data projects and learning groups<br>🧑‍💻 I’m looking for help with: Advanced practices in Data Science<br>⚡ Fun fact: I’ve always enjoyed working with and learning about data — it’s my favorite “weird” curiosity
 
 <div>
   <!-- <a href="https://github.com/Direnzi002">
